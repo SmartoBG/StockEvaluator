@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stockItems>
+<Item>
+	<itemID>23R</itemID>
+	<category>shoes</category>
+	<season>winter</season>
+	<brand>Adidas</brand>
+	<model>Raptor</model>
+	<size>23</size>
+	<condition>new</condition>
+	<sex>f</sex>
+	<price>23.23</price>
+	<quality>C</quality>
+</Item>
+<Item>
+	<itemID>24R</itemID>
+	<category>Boots</category>
+	<season>Autumn</season>
+	<brand>Nike</brand>
+	<model>Air</model>
+	<size>44</size>
+	<condition>new</condition>
+	<sex>М</sex>
+	<price>44.0</price>
+	<quality>B</quality>
+</Item>
+<Item>
+	<itemID>334</itemID>
+	<category>clothes</category>
+	<season>summer</season>
+	<brand>Brand</brand>
+	<model>Model</model>
+	<size>23</size>
+	<condition>new</condition>
+	<sex>m</sex>
+	<price>23.23</price>
+	<quality>A</quality>
+</Item>
+</stockItems>
